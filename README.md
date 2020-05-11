@@ -4,54 +4,58 @@ basic operations of different data Structures and various ways of Sorting Arrays
 
 Time complexities of :
 
-
+<br/>
 1.Sorting Algorithms 
-
-Bubble Sort     = O(n^2)
-Selection Sort  = O(n^2)
-Insertion Sort  = O(n^2)
-Merge Sort      = O(n logn)
-Quick Sort      = O(n logn)
-Heap Sort       = O(n logn)
-
+<br />
+Bubble Sort     = O(n^2)<br />
+Selection Sort  = O(n^2)<br />
+Insertion Sort  = O(n^2)<br />
+Merge Sort      = O(n logn)<br />
+Quick Sort      = O(n logn)<br />
+Heap Sort       = O(n logn)<br />
+<br />
+<br />
 2.LinkedList
-
+<br />
 In worst case as well as Average Case Scenario
-
-Traversal/Access = O(n)
-Searching = O(n)
-Insertion = O(1)
-Deletion = O(1)
-
+<br />
+Traversal/Access = O(n)<br />
+Searching = O(n)<br />
+Insertion = O(1)<br />
+Deletion = O(1)<br />
+<br />
+<br />
 3.BinaryTree
-
+<br />
 Average Case Scenario
-
-Traversal = O(n)
-Searching = O(log n)
-Insertion = O(log n)
-Deletion = O(log n)
-
+<br />
+Traversal = O(n)<br />
+Searching = O(log n)<br />
+Insertion = O(log n)<br />
+Deletion = O(log n)<br />
+<br />
 Worst Case Scenario
-
-Traversal = O(n)
-Searching = O(n)
-Insertion = O(n)
-Deletion = O(n)
-
+<br />
+Traversal = O(n)<br />
+Searching = O(n)<br />
+Insertion = O(n)<br />
+Deletion = O(n)<br />
+<br />
+<br />
 4.Binary Search Tree
-
+<br />
 Average Case Scenario
-
-Traversal = O(n)
-Searching = O(log n)
-Insertion = O(log n)
-Deletion = O(log n)
-
+<br />
+Traversal = O(n)<br />
+Searching = O(log n)<br />
+Insertion = O(log n)<br />
+Deletion = O(log n)<br />
+<br />
 Worst Case Scenario
-
-Traversal = O(n)
-Searching = O(n)
-Insertion = O(n)
-Deletion = O(n)
-
+<br />
+Traversal = O(n)<br />
+Searching = O(n)<br />
+Insertion = O(n)<br />
+Deletion = O(n)<br />
+<br />
+<br />
