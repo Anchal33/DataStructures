@@ -59,3 +59,7 @@ Insertion = O(n)<br />
 Deletion = O(n)<br />
 <br />
 <br />
+5.Graphs
+<br />
+BFS Traversal = O(V+E) <br />
+DFS Traversal = O(V+E) <br />
