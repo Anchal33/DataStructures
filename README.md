@@ -64,3 +64,9 @@ Deletion = O(n)<br />
 BFS Traversal = O(V+E) <br />
 DFS Traversal = O(V+E) <br />
 TopologicalSort=O(V+E) <br />
+<br />
+<br />
+6. Stack
+<br />
+Push Operation = O(1) <br />
+Pop Operation = O(1) <br />
